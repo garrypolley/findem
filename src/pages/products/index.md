@@ -9,7 +9,9 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   production, roasting and brewing seriously and we’re glad to pass that
   knowledge to anyone.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/272_3000x2000_all-free-download.com_25735825.jpg
+      text: required
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
