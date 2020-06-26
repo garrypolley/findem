@@ -13,7 +13,9 @@ description: Find'Em is the leader in innovative and simple technology to find
   kids. We provide the portal for law enforcement to let folks know kids are
   lost. We also  provide the applications for citizens to help find kids fast.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/272_3000x2000_all-free-download.com_25735825.jpg
+      text: blurb required
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
