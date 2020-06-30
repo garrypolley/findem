@@ -9,15 +9,9 @@ const AlertPostPreview = ({ entry, getAsset }) => {
     return (
       <AlertPostTemplate
       mainImage={getAsset(data.mainImage)}
-      department={data.department}
-      subjectName={data.subjectName}
-      suppo={data.subheading}
+      name={data.subjectName}
       description={data.description}
       date={data.date}
-      zipcode={data.zipcode}
-      lat={data.lat}
-      long={data.long}
-      radius={data.radius}
       active={data.active}
       />
     )
