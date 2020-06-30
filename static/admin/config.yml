@@ -34,6 +34,7 @@ collections:
     slug: "{{department}}/{{year}}-{{month}}-{{day}}_{{subjectName}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "alert-post"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Department", name: "department", widget: select, default: "kcmo-example", options: [{label: "KCMO Example", value: "kcmo-example"}] }
       - {label: "Subject Name", name: "subjectName", widget: "text"}
       - {label: "Main Image", name: "mainImage", widget: image}
