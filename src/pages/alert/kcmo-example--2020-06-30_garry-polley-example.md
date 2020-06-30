@@ -3,7 +3,6 @@ templateKey: alert-post
 department: kcmo-example
 subjectName: Garry Polley Example
 mainImage: /img/garry-and-child.jpg
-title: Garry Polley Example
 date: 2020-06-30T02:27:22.735Z
 description: This is an example of what could be done
 zipcode: "64150"

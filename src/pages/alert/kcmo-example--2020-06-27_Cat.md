@@ -2,7 +2,6 @@
 templateKey: alert-post
 subjectName: Cat Stevens
 date: 2016-12-17T15:04:10.000Z
-title: Cat Stevens Example
 description: Something that was given
 active: true
 zipcode: "64150"
